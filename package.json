@@ -1,0 +1,19 @@
+{
+  "name": "metamood-backend",
+  "version": "1.0.0",
+  "description": "The backend of metamood, will recieve data from wearable, create a public API that can be used by any application\r ## Goals\r     * Create a Express Server\r     * Recieve Data from Device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreative-Labs/metamood-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kreative-Labs/metamood-backend/issues"
+  },
+  "homepage": "https://github.com/Kreative-Labs/metamood-backend#readme"
+}
